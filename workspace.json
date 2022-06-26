@@ -1,0 +1,11 @@
+{
+    "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+    "version": 2,
+    "projects": {
+        "survey-client": "apps/survey-client",
+        "survey-service": "apps/survey-service",
+        "type": "libs/type",
+        "ui": "libs/ui",
+        "util": "libs/util"
+    }
+}
